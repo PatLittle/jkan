@@ -56,7 +56,7 @@ collections:
     permalink: /categories/:path/
 kramdown:
   input: GFM
-hero_image: img/uploads/screenshot-2024-05-27-023219.jpg
+hero_image: /img/uploads/screenshot-2024-05-27-023219.jpg
 title: Suggest a Dataset Archive
 jkan_theme: Default
 greeting: Archive of Open.Canada.ca Suggested Datasets
