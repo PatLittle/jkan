@@ -12,4 +12,6 @@ resources:
     url: https://open.canada.ca/data/en/dataset/a96af83b-213a-40e0-ace4-f8fb24fe05a4
     format: csv
 license: https://open.canada.ca/en/open-government-licence-canada
+category:
+  - Government and Politics
 ---
