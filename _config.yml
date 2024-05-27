@@ -58,7 +58,7 @@ kramdown:
   input: GFM
 hero_image: /img/uploads/screenshot-2024-05-27-023219.jpg
 title: Suggest a Dataset Archive
-jkan_theme: Flatly
+jkan_theme: flatly
 greeting: Archive of Open.Canada.ca Suggested Datasets
 exclude:
   - CONTRIBUTING.md
