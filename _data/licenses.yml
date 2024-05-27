@@ -15,3 +15,5 @@ items:
     url: http://www.opendefinition.org/licenses/odc-pddl
   - name: Not Applicable
     url: ""
+  - url: https://open.canada.ca/en/open-government-licence-canada
+    name: Open Government Licence - Canada
