@@ -1,7 +1,7 @@
 ---
 title: "Published Proactive Disclosures Stats "
 resources:
-  - name: Structure PD
+  - name: Structured PD
     url: https://csvbase.com/patlittle/pd-count
     format: html
   - name: Structured PD
