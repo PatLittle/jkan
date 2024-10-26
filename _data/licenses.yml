@@ -1,4 +1,6 @@
 items:
+  - url: https://open.canada.ca/en/open-government-licence-canada
+    name: Open Government Licence - Canada
   - name: Creative Commons Attribution
     url: https://creativecommons.org/licenses/by/4.0/
   - name: Creative Commons Attribution Share-Alike
@@ -15,5 +17,3 @@ items:
     url: http://www.opendefinition.org/licenses/odc-pddl
   - name: Not Applicable
     url: ""
-  - url: https://open.canada.ca/en/open-government-licence-canada
-    name: Open Government Licence - Canada
