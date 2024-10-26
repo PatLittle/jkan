@@ -1,8 +1,8 @@
 # Note that several config options are provided by JavaScript
 # in index.html. Those options are merged into these options.
-
 backend:
   name: github
+  base_url: https://peaceful-zabaione-1e150c.netlify.app/
 
 media_folder: "img/uploads"
 
